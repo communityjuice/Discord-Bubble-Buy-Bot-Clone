@@ -27,7 +27,7 @@ Contact us, and we'll answer all your questions and explain your potential game 
 
 ## Contact Us
 
-- <a href="https://t.me/cjdiscordtech" target="_blank">Telegram Channel</a>
+- <a href="https://t.me/communityjuicelabs" target="_blank">Telegram Channel</a>
 - <a href="https://t.me/evz9894" target="_blank">DM Us</a>
 - [Our Email](mailto:gm@communityjuice.xyz)
 - <a href="https://communityjuice.xyz" target="_blank">Website</a>
